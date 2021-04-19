@@ -1,9 +1,9 @@
-# LucasUtilities
+# Utilities
 
-[![CI Status](https://img.shields.io/travis/lucaswkuipers/LucasUtilities.svg?style=flat)](https://travis-ci.org/lucaswkuipers/LucasUtilities)
-[![Version](https://img.shields.io/cocoapods/v/LucasUtilities.svg?style=flat)](https://cocoapods.org/pods/LucasUtilities)
-[![License](https://img.shields.io/cocoapods/l/LucasUtilities.svg?style=flat)](https://cocoapods.org/pods/LucasUtilities)
-[![Platform](https://img.shields.io/cocoapods/p/LucasUtilities.svg?style=flat)](https://cocoapods.org/pods/LucasUtilities)
+[![CI Status](https://img.shields.io/travis/lucaswkuipers/Utilities.svg?style=flat)](https://travis-ci.org/lucaswkuipers/Utilities)
+[![Version](https://img.shields.io/cocoapods/v/Utilities.svg?style=flat)](https://cocoapods.org/pods/Utilities)
+[![License](https://img.shields.io/cocoapods/l/Utilities.svg?style=flat)](https://cocoapods.org/pods/Utilities)
+[![Platform](https://img.shields.io/cocoapods/p/Utilities.svg?style=flat)](https://cocoapods.org/pods/Utilities)
 
 ## Example
 
@@ -13,11 +13,11 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Installation
 
-LucasUtilities is available through [CocoaPods](https://cocoapods.org). To install
+Utilities is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'LucasUtilities'
+pod 'Utilities'
 ```
 
 ## Author
@@ -26,4 +26,4 @@ Lucas Werner Kuipers, lucaswkuipers@gmail.com
 
 ## License
 
-LucasUtilities is available under the MIT license. See the LICENSE file for more info.
+Utilities is available under the MIT license. See the LICENSE file for more info.
