@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+TODO: This pod has a few useful functions, used in the Moeda Digital Super App. Encode turns a list of strings into a piped string (eg: ["ABC", "DEF", "GHI"] -> "ABC|DEF|GHI") and decode goes the other way around. At last, formatCoins turns a Double into coin format, such as 123456789.123456789 -> "$ 123,456,789.12".
                        DESC
 
   s.homepage         = 'https://github.com/lucaswkuipers/LucasUtilities'
@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '10.0'
 
-  s.source_files = 'Utilities/Classes/*'
+  s.source_files = 'LucasUtilities/Classes/*'
   
   # s.resource_bundles = {
   #   'Utilities' => ['Utilities/Assets/*.png']
