@@ -6,7 +6,7 @@ target 'ExampleUtilities' do
   use_frameworks!
 
   # Pods for ExampleUtilities
-  pod 'Utilities', :path => '../'
+  pod 'LucasUtilities'
 
   target 'ExampleUtilitiesTests' do
     inherit! :search_paths
